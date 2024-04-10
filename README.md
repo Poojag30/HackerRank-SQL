@@ -17,6 +17,7 @@
 | 12               | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) |
 | 13               | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) |
 | 14               | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) |
+| 15               | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) |
 |           |                                               |
 
 
