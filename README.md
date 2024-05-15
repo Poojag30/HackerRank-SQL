@@ -23,6 +23,7 @@
 | 18              | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) |
 | 19              | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) |
 | 20              | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) |
+| 21              | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) |
 |           |                                               |
 
 
